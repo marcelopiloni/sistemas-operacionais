@@ -25,6 +25,4 @@ Explorar conceitos de sistemas operacionais embarcados e de tempo real, incluind
 - inicialização de sistema
 - monitoramento de recursos
 
-## 📄 Licença
 
-Este projeto está sob a licença MIT (ou outra de sua escolha).
