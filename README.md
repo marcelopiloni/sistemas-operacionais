@@ -8,9 +8,9 @@ Este repositório reúne os arquivos e atividades desenvolvidos para a disciplin
   - `boot_system/`: projeto de sistema de boot em Assembly e C, incluindo scripts de build e arquivos de configuração
   - `sistema.service`: configuração de serviço para inicialização
 - `atividade2/`
-  - `monitoramentoVM.py`: script para monitorar uso de CPU/memória em máquinas virtuais
+  - `monitoramentoVM.py`: script para monitorar uso de CPU/memória em máquinas virtuais de diferentes S.O
 - `atividade3/`
-  - `ollama.py`: script de automação de tarefas (detalhes no código)
+  - `ollama.py`: script de automação de busca de arquivos PDF utilizando o Ollama e PyPDF2 em diferentes VMs com diferentes S.O
 
 ## ⚙️ Tecnologias
 
