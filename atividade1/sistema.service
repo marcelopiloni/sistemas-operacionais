@@ -1,0 +1,21 @@
+[Unit]
+Description=Sistema Mainframe - Trabalho de SO
+DefaultDependencies=no
+Before=getty.target
+After=sysinit.target
+
+[Service]
+Type=simple
+ExecStart=/home/debian/sistema
+StandardInput=tty
+StandardOutput=tty
+StandardError=tty
+TTYPath=/dev/tty1
+TTYReset=yes
+TTYVHangup=yes
+RemainAfterExit=no
+KillMode=process
+Restart=no
+
+[Install]
+WantedBy=multi-user.target
